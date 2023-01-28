@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(252, 247, 240);
+}
+header{
+    font-size: 40px;
+    font-weight: 500;
+    color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+main{
+    margin-left: 10px;
+}
+button{
+    font-size: 17px;
+    cursor: pointer;
+}
+p{
+    font-size: 19px;
+}
+p b{
+    font-size: 22px;
+}
+p a{
+    text-decoration: none;
+    font-size: 22px;
+}
+li{
+    font-size: 18px;
+}
+em{
+    font-size: 22px;
+    color: brown;
+}
